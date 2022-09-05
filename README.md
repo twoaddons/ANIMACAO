@@ -15,3 +15,122 @@
 <info>Após reescrever o tempo e impedir que a Guerra de Apokolips acontecesse, John Constantine percebe que está preso na Casa dos Mistérios enfrentando um castigo que ainda não entende</info>
 </item> 
 *************************************
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+*************************************
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+*************************************
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+*************************************
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+*************************************
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+*************************************
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+*************************************
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+*************************************
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+*************************************
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+*************************************
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+*************************************
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+*************************************
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+*************************************
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+*************************************
+
+
